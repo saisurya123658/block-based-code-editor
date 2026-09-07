@@ -599,7 +599,7 @@ However, for extremely deeply nested programs, an iterative stack-based approach
 
 | Resource               | Link                                                              |
 | ---------------------- | ----------------------------------------------------------------- |
-| 🌐 Live Demo           | https://cybosocks.vercel.app                                      |
+| 🌐 Live Demo           | https://block-based-code-editor.vercel.app/                       |
 | 💻 GitHub Repository   | https://github.com/saisurya123658/block-based-code-editor|
 | 🎥 Video Demonstration | [YouTube Video](https://youtu.be/53wwH3IicKg?si=D2Gn2hKweMDM3SWD) |
 
