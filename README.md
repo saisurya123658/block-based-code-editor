@@ -595,8 +595,11 @@ I believe this is appropriate for the current scope because it keeps the impleme
 
 However, for extremely deeply nested programs, an iterative stack-based approach could be considered to avoid excessive recursion depth.
 
-🔗 Quick Links
-Resource	Link
-🌐 Live Demo   	https://cybosocks.vercel.app
-💻 GitHub Repository	https://github.com/saisurya123658/cybosocks-screening-task
-🎥 Video Demonstration	YouTube Video
+# 🔗 Quick Links
+
+| Resource               | Link                                                              |
+| ---------------------- | ----------------------------------------------------------------- |
+| 🌐 Live Demo           | https://cybosocks.vercel.app                                      |
+| 💻 GitHub Repository   | https://github.com/saisurya123658/cybosocks-screening-task        |
+| 🎥 Video Demonstration | [YouTube Video](https://youtu.be/53wwH3IicKg?si=D2Gn2hKweMDM3SWD) |
+
