@@ -1,0 +1,34 @@
+{
+  "program": [
+    {
+      "type": "repeat",
+      "times": 2,
+      "body": [
+        {
+          "type": "move",
+          "steps": 1
+        }
+      ]
+    },
+    {
+      "type": "repeat",
+      "times": 2,
+      "body": [
+        {
+          "type": "say",
+          "text": "Hello!"
+        }
+      ]
+    },
+    {
+      "type": "repeat",
+      "times": 2,
+      "body": [
+        {
+          "type": "turn",
+          "direction": "right"
+        }
+      ]
+    }
+  ]
+}
