@@ -14,7 +14,7 @@ The project consists of two main parts:
 
 ### 🌐 Live Demo
 
-**https://cybosocks.vercel.app**
+**https://block-based-code-editor.vercel.app**
 
 ### 🎥 Video Demo
 
