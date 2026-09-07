@@ -1,4 +1,4 @@
-# Cybosocks Screening Task — React + Java Block-Based Code Editor
+# block-based-code-editor — React + Java Block-Based Code Editor
 
 A block-based programming environment built with **React, Blockly, and Java** as part of the Cybosocks Java / React JS / Full Stack Developer Internship screening task.
 
@@ -22,7 +22,7 @@ The project consists of two main parts:
 
 ### 💻 GitHub Repository
 
-**https://github.com/saisurya123658/cybosocks-screening-task**
+**https://github.com/saisurya123658/block-based-code-editor**
 
 ---
 
@@ -600,6 +600,6 @@ However, for extremely deeply nested programs, an iterative stack-based approach
 | Resource               | Link                                                              |
 | ---------------------- | ----------------------------------------------------------------- |
 | 🌐 Live Demo           | https://cybosocks.vercel.app                                      |
-| 💻 GitHub Repository   | https://github.com/saisurya123658/cybosocks-screening-task        |
+| 💻 GitHub Repository   | https://github.com/saisurya123658/block-based-code-editor|
 | 🎥 Video Demonstration | [YouTube Video](https://youtu.be/53wwH3IicKg?si=D2Gn2hKweMDM3SWD) |
 
