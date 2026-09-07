@@ -1,7 +1,7 @@
 package com.cybosocks.runner;
 
 import java.util.List;
-
+ 
 public class Block {
 
     private String type;
